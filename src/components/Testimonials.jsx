@@ -3,10 +3,10 @@ import React from 'react';
 const Testimonials = () => {
     const testimonials = [
         {
-            name: "Swapnil Wagh",
+            name: "Saurabh Kulkarni",
             role: "LINK ASIA",
             text: "Thank you SK Dynamics 360 for taking out your time and conducting an informative and customised webinar. The team at SK Dynamics 360 are spreading the right awareness and SK Dynamics 360 is the right insurance partner and its nuances.",
-            avatar: "/swapnil-wagh.png"
+            avatar: "/mentor.jpg"
         },
         {
             name: "Sanjay Rathod",
@@ -17,7 +17,7 @@ const Testimonials = () => {
         {
             name: "Suraj Takale",
             role: "FINEDITION",
-            text: "Just attended an amazing webinar by Swapnil Shinde on Life Insurance 101. My biggest takeaway was that I am an investment and term plan is the best. Life Insurance plan.",
+            text: "Just attended an amazing webinar by Saurabh Kulkarni on Life Insurance 101. My biggest takeaway was that I am an investment and term plan is the best. Life Insurance plan.",
             avatar: "/suraj-takale.png"
         }
     ];
