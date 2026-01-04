@@ -18,7 +18,7 @@ const Hero = ({ onRegister }) => {
                     </p>
 
                     {/* Logo */}
-                    <div className="flex-shrink-0 bg-white backdrop-blur-md p-6 rounded-full shadow-2xl border border-white/50 translate-y-8 md:-translate-y-6">
+                    <div className="flex-shrink-0 bg-white backdrop-blur-md p-6 rounded-full shadow-2xl border border-white/50 translate-y-16 md:-translate-y-6">
                         <img src="/sk-logo.png" alt="SK Dynamics 360" className="h-28 w-auto" />
                     </div>
 
